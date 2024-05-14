@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+👋 Hello, I'm Edhard Sypa, an IT Support Administrator with a passion for Python development and DevOps practices. Welcome to my GitHub page!
+
+With a background in IT support, I thrive in troubleshooting complex issues and ensuring seamless operations within an organization's technology infrastructure. However, my journey doesn't end there. I'm also deeply engaged in honing my skills in Python development and exploring the realm of DevOps to streamline processes and enhance efficiency.
+
+In this space, you'll find a blend of my projects, ranging from Python scripts for automation to my exploration into DevOps tools and methodologies. Join me as I navigate through the ever-evolving landscape of technology, learning and growing with each line of code.
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities. Let's connect and build something awesome together!
+
 <!--
 **kreker783/kreker783** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
