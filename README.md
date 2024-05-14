@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 👋 Hello, I'm Edhard Sypa, an IT Support Administrator with a passion for Python development and DevOps practices. Welcome to my GitHub page!
 
 With a background in IT support, I thrive in troubleshooting complex issues and ensuring seamless operations within an organization's technology infrastructure. However, my journey doesn't end there. I'm also deeply engaged in honing my skills in Python development and exploring the realm of DevOps to streamline processes and enhance efficiency.
